@@ -1,0 +1,7 @@
+{
+  "name": "ENEM Master Quiz & AI Editor",
+  "description": "Uma plataforma completa para simulados do ENEM com 50 questões aleatórias e um laboratório de edição de imagens via IA para materiais de estudo.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
